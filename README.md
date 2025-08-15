@@ -6,4 +6,4 @@
 
 - Projetos de ETL de dados com visualização de Dashboards
 
-- E outros estudos
+- Entre outros estudos
